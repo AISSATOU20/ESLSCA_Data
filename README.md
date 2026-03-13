@@ -1,6 +1,6 @@
 # ESLSCA_Data
 
-#Step-by-Step Guide
+# Step-by-Step Guide
 
 Visit the Website: Navigate to github.com.
 
