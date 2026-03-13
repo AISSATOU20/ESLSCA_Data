@@ -19,16 +19,17 @@ Verification: GitHub will ask you to verify your email address to ensure the acc
 Finalize: Complete the remaining profile prompts, and you are ready to go!
 
 
-#Pair Programming exercise
+# Pair Programming exercise
 
 Pair yourself with a classmate. Send the link to your repository on GitHub to your pair via Slack. Now each of you should perform the following set of actions:
 
 ## Fork the classmate's repository.
-Clone it so you have it locally and you can make changes.
+
+##  Clone it so you have it locally and you can make changes.
 Create a new branch named classmate.
 Create a new file with your name (ex. maya.txt) and finish the following sentence I enrolled Eslsca Python because.... When you are done, save the changes.
-Add the changes to git.
-Commit and push changes. Now, all the changes should be on your GitHub inside the forked repository.
+## Add the changes to git.
+## Commit and push changes. Now, all the changes should be on your GitHub inside the forked repository.
 Create a pull request to make changes appear in the original repository.
 Merge the branch your classmate created and now everyone's repos should have the original file (about.txt) as well as the new one with your classmate's name.
 We hope you enjoyed this activity and learned something new about your classmates! ❤️
